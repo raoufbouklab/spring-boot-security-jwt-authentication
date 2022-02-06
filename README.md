@@ -28,7 +28,7 @@ The following guides illustrate how to use some features concretely:
 
 ### Run the app in docker
 ```
-cd spring-boot-security-jwt-authentication
+cd spring-security-jwt-authentication
 
 mvn clean install
 
